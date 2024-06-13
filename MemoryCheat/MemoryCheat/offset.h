@@ -1,0 +1,14 @@
+DWORD BASE_ADDRS;
+DWORD BASE_ADDR;
+DWORD PLAYER_BASE;
+DWORD RECOIL_BASE;;
+DWORD HP = 0xEC;
+DWORD AMMO = 0x140;
+DWORD DELAY = 0x164;
+
+DWORD procID;
+
+int pAddress;
+int baseAddress;
+int newValue;
+

@@ -1,0 +1,13 @@
+﻿  mian.cpp
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(29,9): warning C4244: 'return': 'uintptr_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(63,52): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'LPVOID *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(66,50): warning C4312: '형식 캐스트': 'int'에서 더 큰 'LPVOID *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(76,59): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(77,61): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(78,59): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(83,52): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'LPVOID *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(86,50): warning C4312: '형식 캐스트': 'int'에서 더 큰 'LPVOID *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(92,59): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(93,61): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\MemoryCheat\mian.cpp(94,59): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'BYTE *'(으)로의 변환입니다.
+  MemoryCheat.vcxproj -> C:\Users\ab1t3\Desktop\프로젝트\안티치트솔루션\MemoryCheat\x64\Debug\MemoryCheat.exe
